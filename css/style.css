@@ -1,7 +1,8 @@
 /* header style */
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 body {
@@ -19,6 +20,11 @@ body {
 nav {
   background-color: #c5c5b2;
   padding: 18px 18px 18px 18px;
+}
+
+h1 {
+  font-weight: 25px;
+  color: #828271;
 }
 
 a {
